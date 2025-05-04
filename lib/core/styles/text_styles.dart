@@ -1,4 +1,3 @@
-
 import 'package:bmi_app/core/theme/colors_manger.dart';
 import 'package:flutter/material.dart';
 

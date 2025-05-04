@@ -8,4 +8,6 @@ class ColorsManger {
   static const Color whiteColor = Color(0xFFFFFFFF);
   static const Color greenColor = Color(0xff21BF73);
   static const Color redColor = Color(0xffE83D67);
+  static const Color yellowColor = Color(0xffFFBF00);
+  static const Color blueColor = Color(0xff4D5BCE);
 }
