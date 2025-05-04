@@ -1,3 +1,4 @@
+import 'package:bmi_app/ui/widgets/custom_app_bar.dart';
 import 'package:flutter/material.dart';
 
 class HomeScreen extends StatefulWidget {
@@ -10,6 +11,6 @@ class HomeScreen extends StatefulWidget {
 class HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(appBar: AppBar(title: const Text('')), body: Container());
+    return Scaffold(appBar: CustomAppBar(), body: Container());
   }
 }
